@@ -50,6 +50,8 @@ barchartGC(~race + cappun,data=mydata, type="percent")
 
 ```
 
+Black people have the opposite opinion towards capital punishment that White and Other raced people. In the frequency chart. White people favor for capital punishment surpasses the sum of both black and other races combined.
+
 ## Now with The Most data (fewer variables gives more data points)
 
 
