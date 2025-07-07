@@ -89,4 +89,4 @@ The fisher test showed that all groups are statistically different from each oth
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+When comparing both branches, the master list had major differences between catergories. The branch number two only had one major change.It had 3 times the data.
