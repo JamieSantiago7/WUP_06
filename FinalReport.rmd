@@ -63,6 +63,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+The trend is still reflecting that white people majorly surpass the two other catergories in favor of capital punishment.
 
 ## Inferential Results
 
