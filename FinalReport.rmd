@@ -50,6 +50,8 @@ barchartGC(~race + cappun,data=mydata, type="percent")
 
 ```
 
+The trend is the same as it was in our previous bar graph. White people and other races favor capital punishment, while black people do not.
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
