@@ -44,6 +44,11 @@ If not, then whose view differs from whom??
 
 ## Now with LESS data (more variables give less data due to NA's) create the approate graphic displays to answer the question.
 
+```{r}
+barchartGC(~race + cappun,data=mydata)
+barchartGC(~race + cappun,data=mydata, type="percent")
+
+```
 
 ### Numerical Descriptive Results
 
