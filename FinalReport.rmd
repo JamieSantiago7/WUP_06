@@ -66,6 +66,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+The majority of black people are opposed to capital punishment. However, black and other races oppose it for the most part.
 
 ## Now with More data
 
