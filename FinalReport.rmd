@@ -83,6 +83,7 @@ fisherXY(mydata$cappun,mydata$race)
 
 ## More data version
 
+The fisher test showed that all groups are statistically different from each other.
 
 # Discussion and Conclusion
 
